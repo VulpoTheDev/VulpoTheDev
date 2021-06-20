@@ -10,7 +10,7 @@
 </div>
   
 [![Discord](https://img.shields.io/discord/731520035717251142?color=%238800FF&label=FurDevs&style=for-the-badge)](https://discord.gg/SBhgSNb)
-[![Discord](https://img.shields.io/twitter/follow/developervulpo?color=%2300acee&style=for-the-badge)](https://discord.gg/SBhgSNb)
+[![Twitter](https://img.shields.io/twitter/follow/developervulpo?color=%2300acee&style=for-the-badge)](https://twitter.com/developervulpo)
 
 
 ## About Me:
@@ -23,6 +23,24 @@
 - 💬 Ask me about **Anything Web Development Related, I'll try my best to answer them**
 - 📫 How to reach me **developervulpo@outlook.com**
 - ⚡ Fun fact **I ate @LostNuke's Coffee and he ate me!**
+
+## Programming Languages and Operating Systems
+
+### Operating Systems
+[![Laptop OS](https://img.shields.io/badge/Laptop%20OS-Manjaro-purple?logo=manjaro&style=for-the-badge)](https://manjaro.org/downloads/official/kde/)
+
+[![Main Desktop OS](https://img.shields.io/badge/Main%20Desktop%20OS-Manjaro-purple?logo=manjaro&style=for-the-badge)](https://manjaro.org/downloads/official/kde/)
+
+[![Secondary Desktop OS](https://img.shields.io/badge/Secondary%20Desktop%20OS-Windows%20-magenta?logo=windows&style=for-the-badge)](https://manjaro.org/downloads/official/kde/)
+
+### Programming Languages & Technologies
+
+[![Javascript](https://img.shields.io/badge/Javascript%20-black?logo=javascript&style=for-the-badge)]()
+[![Typescript](https://img.shields.io/badge/Typescript%20-black?logo=typescript&style=for-the-badge)]()
+[![Java](https://img.shields.io/badge/Java%20-black?logo=java&style=for-the-badge)]()
+[![Python](https://img.shields.io/badge/Python%20-black?logo=python&style=for-the-badge)]()
+[![React](https://img.shields.io/badge/React%20-black?logo=react&style=for-the-badge)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB%20-black?logo=mongodb&style=for-the-badge)]()
 
 
 ## Bragging Rights/Statisics
