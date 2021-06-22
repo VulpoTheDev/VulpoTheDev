@@ -43,7 +43,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-black?logo=mongodb&style=for-the-badge)]()
 
 
-## Bragging Rights/Statisics
+## Bragging Rights/Statistics
 
 <div>
 <p><img align="left" width=45% height=100% src="https://lanyard-profile-readme.vercel.app/api/852070153804972043" alt="vulpothedev" /></p>
