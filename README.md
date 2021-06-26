@@ -2,7 +2,7 @@
 
 <div>
   <div width="45%">
-      <h1 align=left >Hello Eveyone</h1>
+      <h1 align=left > 👋 Hello Eveyone</h1>
   <h3 align=left>I'm Vulpo, A Full Stack Developer</h3>
   <img width=45% align=right src="https://raw.githubusercontent.com/VulpoTheDev/VulpoTheDev/main/Banner.png">
     
