@@ -24,6 +24,11 @@
 - 📫 How to reach me **developervulpo@outlook.com**
 - ⚡ Fun fact **I ate @LostNuke's Coffee and he ate me!**
 
+## Projects Being worked on
+
+- Hozol/Hozol-Website - General Purpose Discord Bot I'm currently working on
+- FurDevs Bot (Fenix)/Website - A Discord Bot for my Discord Furry/Dev Server
+
 ## Programming Languages and Operating Systems
 
 ### Operating Systems
