@@ -49,11 +49,6 @@
 
 
 ## Bragging Rights/Statistics
-
-<div>
-<p><img align="left" width=45% height=100% src="https://lanyard-profile-readme.vercel.app/api/852070153804972043" alt="vulpothedev" /></p>
-<p><img align="right" width=45% height=100% src="https://lanyard-profile-readme.vercel.app/api/679145795714416661" alt="vulpothedev" /></p>
-</div>
   
 <div>
 <p><img align="left" width=45% height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=vulpothedev&show_icons=true&locale=en&layout=compact" alt="vulpothedev" /></p>
