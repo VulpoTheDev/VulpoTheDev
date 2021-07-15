@@ -17,7 +17,7 @@
 
 - 🦊 I'm a Full Stack Developer that likes to make fun projects during my free time when I have nothing to do which I rarely have. I'm also Furry, Killeen High School Student and a nice person to talk to.
 
-- 🔭 I’m currently working on **Hozol, a General Purpose Discord Bot and a Chat Application similar to telegram**
+- 🔭 I’m currently working on **Hozol, a General Purpose Discord Bot and a Chat Application with Relms**
 - 🌱 I’m currently learning **C++ in college, C# and Java online**
 - 👨‍💻 All of my projects are available at [https://vulpo.xyz](https://vulpo.xyz)
 - 💬 Ask me about **Anything Web Development Related, I'll try my best to answer them**
