@@ -27,7 +27,7 @@
 ## Projects Being worked on
 
 - Hozol/Hozol-Website - General Purpose Discord Bot I'm currently working on
-- FurDevs Bot (Fenix)/Website - A Discord Bot for my Discord Furry/Dev Server
+
 
 ## Programming Languages and Operating Systems
 
