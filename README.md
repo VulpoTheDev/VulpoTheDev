@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning **C++ in college, C# and Java online**
 - 👨‍💻 All of my projects are available at [https://vulpo.xyz](https://vulpo.xyz)
 - 💬 Ask me about **Anything Web Development Related, I'll try my best to answer them**
-- 📫 How to reach me **developervulpo@outlook.com**
+- 📫 How to reach me **VulpoTheDev#0532**
 - ⚡ Fun fact **I ate @LostNuke's Coffee and he ate me!**
 
 ## Projects Being worked on
