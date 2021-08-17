@@ -46,6 +46,10 @@
 [![Python](https://img.shields.io/badge/Python%20-black?logo=python&style=for-the-badge)]()
 [![React](https://img.shields.io/badge/React%20-black?logo=react&style=for-the-badge)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB%20-black?logo=mongodb&style=for-the-badge)]()
+[![C++](https://img.shields.io/badge/C++%20-black?logo=cplusplus&style=for-the-badge)]()
+[![C#](https://img.shields.io/badge/C#%20-black?logo=csharp&style=for-the-badge)]()
+[![Kotlin](https://img.shields.io/badge/kotlin%20-black?logo=kotlin&style=for-the-badge)]()
+
 
 
 ## Bragging Rights/Statistics
