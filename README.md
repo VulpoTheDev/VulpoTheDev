@@ -32,11 +32,7 @@
 ## Programming Languages and Operating Systems
 
 ### Operating Systems
-[![Laptop OS](https://img.shields.io/badge/Laptop%20OS-Manjaro-purple?logo=manjaro&style=for-the-badge)](https://manjaro.org/downloads/official/kde/)
-
-[![Main Desktop OS](https://img.shields.io/badge/Main%20Desktop%20OS-Garuda%20Linux-purple?logo=linux&style=for-the-badge)](https://manjaro.org/downloads/official/kde/)
-
-[![Secondary Desktop OS](https://img.shields.io/badge/Secondary%20Desktop%20OS-Windows%20-magenta?logo=windows&style=for-the-badge)](https://manjaro.org/downloads/official/kde/)
+[![Laptop OS](https://img.shields.io/badge/Laptop%20OS-arch-purple?logo=arch&style=for-the-badge)]()
 
 ### Programming Languages & Technologies
 
