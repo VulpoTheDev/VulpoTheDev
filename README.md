@@ -11,7 +11,6 @@
 [![Discord](https://img.shields.io/discord/731520035717251142?color=%238800FF&label=FurDevs&style=for-the-badge)](https://discord.gg/SBhgSNb)
 [![Twitter](https://img.shields.io/twitter/follow/developervulpo?color=%2300acee&style=for-the-badge)](https://twitter.com/developervulpo)
 
-
 ## About Me:
 
 - 🦊 I'm a full-Stack developer that likes to make fun projects during my free time when I have nothing to do which I rarely have. I'm also a furry, a Killeen High School Student and a nice person to talk to!
@@ -30,6 +29,7 @@
 ## Programming Languages and Operating Systems
 
 ### Operating Systems
+
 [![Laptop OS](https://img.shields.io/badge/Laptop%20OS-arch-purple?logo=arch&style=for-the-badge)]()
 
 ### Programming Languages & Technologies
@@ -47,6 +47,7 @@
 <!-- ## Uncomment this line if you want a compact way of displaying your tech stack ##
 <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,mongodb,cpp,cs,kotlin">
 -->
+
 ## Bragging Rights/Statistics
 
 <p><img align="left" width=45% height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=vulpothedev&langs_count=8&show_icons=true&locale=en&layout=compact" alt="vulpothedev" /></p>
