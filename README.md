@@ -7,7 +7,7 @@
     <h3 align=left>I'm Vulpo, A Full Stack Developer</h3>
   </div>
 </div>
-  
+
 [![Discord](https://img.shields.io/discord/731520035717251142?color=%238800FF&label=FurDevs&style=for-the-badge)](https://discord.gg/SBhgSNb)
 [![Twitter](https://img.shields.io/twitter/follow/developervulpo?color=%2300acee&style=for-the-badge)](https://twitter.com/developervulpo)
 
