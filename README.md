@@ -25,22 +25,24 @@
 ## My Projects
 
 ### MyFursona
-ℹ️ MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas.
-### Cards Against Humanity ONLINE 
-ℹ️ My own twist of making a cards against humanity game where users can download onto their phones, computers, or play online and play cards against humanity.
-### Time Manager
-ℹ️ An Suite of applications to help you improve your time management to ensure that you don't procrastinate on your tasks. It comes with planners, reminders, calender!
 
+ℹ️ MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas.
+
+### Cards Against Humanity ONLINE
+
+ℹ️ My own twist of making a cards against humanity game where users can download onto their phones, computers, or play online and play cards against humanity.
+
+### Time Manager
+
+ℹ️ An Suite of applications to help you improve your time management to ensure that you don't procrastinate on your tasks. It comes with planners, reminders, calender!
 
 ## Programming Languages and Operating Systems
 
 ### Operating Systems
+
 [![Laptop](https://img.shields.io/badge/Laptop%20OS-Windows%2011-orange?logo=windows&style=for-the-badge)]()
 [![Computer](https://img.shields.io/badge/Laptop%20OS-Arch%20Linux-orange?logo=archlinux&style=for-the-badge)]()
-
 
 ### Programming Languages & Technologies
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,mongodb,cpp,cs,kotlin" />
-
-
