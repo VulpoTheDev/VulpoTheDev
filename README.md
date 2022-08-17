@@ -5,7 +5,7 @@
 </div>
 
 [![Discord](https://img.shields.io/discord/731520035717251142?color=%238800FF&label=FurDevs&style=for-the-badge)](https://discord.gg/SBhgSNb)
-[![Twitter](https://img.shields.io/twitter/follow/developervulpo?color=%2300acee&style=for-the-badge)](https://twitter.com/developervulpo)
+[![Twitter](https://img.shields.io/twitter/follow/developervulpo?color=%2300acee&style=for-the-badge)](https://twitter.com/OzzyDevs)
 
 ## About Me:
 
