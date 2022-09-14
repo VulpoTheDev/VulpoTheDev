@@ -1,6 +1,6 @@
 <!-- 2022 OzzyTheDev, Please Don't Copy -->
 <div>
-    <img align="right" height="250" src="https://media.discordapp.net/attachments/964979519712817222/993779645738668032/unknown.png"  />
+    <img align="right" height="250" src="https://github.com/VulpoTheDev/VulpoTheDev/blob/main/banner.png?raw=true"  />
     <h2 align="left">Hello All! I'm Ozzy! I'm also known as Jason. I'm a Full Stack Web Developer.</h2>
 </div>
 
