@@ -10,12 +10,12 @@
 ## About Me:
 
 - 🦦 I'm a furry, my sona is an Otter called Ozzy
-- 🎓 Class of 2023
+- 🎓 Class of 2023 at Killeen High
 - 🔭 I’m currently working on Zivo Developments.
 - 🌱 I’m currently learning **Game Development**.
 - 👨‍💻 All of my projects are available at [https://ozzy.gay](https://ozzy.gay).
 - 💬 Ask me about Web Development!
-- 📫 Feel free to reach me out on Discord at **OzzyTheDev#1312** or by [sending me an email](vulpothedev@gmail.com).
+- 📫 Feel free to reach me out on Discord at **ozzythedev#9999** or by [sending me an email](vulpothedev@gmail.com).
 - ⚡ Fun fact: **I ate @LostNuke's Coffee and he ate me!**
 
 ## What's Ozzy Doing right now?
