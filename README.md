@@ -4,7 +4,7 @@
     <h2 align="left">Hello All! I'm Ozzy! I'm also known as Jason. I'm a Full Stack Web Developer.</h2>
 </div>
 
-[![Discord](https://img.shields.io/discord/940354218617876490?color=%238800FF&label=Fuzzy&20Plaza&style=for-the-badge)](https://discord.gg/wag)
+[![Discord](https://img.shields.io/discord/940354218617876490?color=cyan&label=Fuzzy%20Plaza&style=for-the-badge)](https://discord.gg/wag)
 [![Twitter](https://img.shields.io/twitter/follow/ozzydevs?color=%2300acee&style=for-the-badge)](https://twitter.com/OzzyDevs)
 
 ## About Me:
