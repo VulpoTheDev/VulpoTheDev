@@ -10,9 +10,9 @@
 ## About Me:
 
 - 🦦 I'm a furry, my sona is an Otter called Ozzy
-- 🎓 I'm a Senior at Killeen High that enjoys making things as a hobby.
-- 🔭 I’m currently working on projects for my portfolio.
-- 🌱 I’m currently learning **Mobile Development and Game Dev**.
+- 🎓 Class of 2023
+- 🔭 I’m currently working on Zivo Developments.
+- 🌱 I’m currently learning **Game Development**.
 - 👨‍💻 All of my projects are available at [https://ozzy.gay](https://ozzy.gay).
 - 💬 Ask me about Web Development!
 - 📫 Feel free to reach me out on Discord at **OzzyTheDev#1312** or by [sending me an email](vulpothedev@gmail.com).
