@@ -24,12 +24,10 @@
 
 ## My Projects
 
-### MyFursona
-ℹ️ MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas.
-### Cards Against Humanity ONLINE 
-ℹ️ My own twist of making a cards against humanity game where users can download onto their phones, computers, or play online and play cards against humanity.
-### Time Manager
-ℹ️ An Suite of applications to help you improve your time management to ensure that you don't procrastinate on your tasks. It comes with planners, reminders, calendar!
+|   Project   | Description |   Status    |
+| ----------- | ----------- |  ---------- | 
+| MyFursona | MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas. | Work In Progress
+| Cards Against Humanity ONLINE  | My own twist of making a cards against humanity game where users can download onto their phones, computers, or play online and play cards against humanity. | Hold
 
 
 ## Programming Languages and Operating Systems
