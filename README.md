@@ -18,7 +18,7 @@ _A Full Stack React Web Developer_
 |   Project   | Description |   Status    |
 | ----------- | ----------- |  ---------- | 
 | Sparrow  | An _Soon to be_ Open Source Social Media Platform with Artist and Creators in mind. | Actively Working 
-| MyFursona | MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas. | Hold
+| MyFursona | MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas. | Working
 
 
 
