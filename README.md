@@ -6,10 +6,10 @@ _A Full Stack React Web Developer_
 
 ## About Me:
 
-- 🧑‍💻 I'm a High School Senior that enjoys coding Websites
+- 🧑‍💻 I'm a College Student that enjoys coding Websites
 - 🔭 I’m currently working on Project Sparrow, a _soon to be_ Open Source Social Media App.
 - 🌱 I’m currently learning **Game Development** and **Mobile App Development**.
-- 👨‍💻 All of my projects are available at [https://ozzy.gay](https://ozzy.gay).
+- 👨‍💻 All of my projects are available at [https://otterdev.xyz](https://otterdev.xyz).
 - 💬 Ask me about Web Development!
 - 📫 Feel free to reach me out by [sending me an email](vulpothedev@gmail.com).
 
