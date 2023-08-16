@@ -1,5 +1,5 @@
 <!-- 2022-2023 OzzyTheDev, Please Don't Copy -->
-<img src="https://media.discordapp.net/attachments/837169359620145182/1139236419265630228/IMG_0643.png?width=100&height=150" alt="Ozzy" />
+<img src="/ozzy.png" alt="Ozzy" />
 
 # Hello All, I'm Jason!
 _A Full Stack React Web Developer_
