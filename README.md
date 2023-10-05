@@ -19,16 +19,6 @@ _A Full Stack React Web Developer_
 | ----------- | ----------- |  ---------- | 
 | MyFursona | MyFursona is a project where those who are furries can be able to store their information and artworks of their sona. Making it easily to share to others and showcase and a place to dump art of their sonas. | Working
 
-
-
-## Programming Languages and Operating Systems
-
-### Operating Systems
-[![Laptop](https://img.shields.io/badge/Laptop%20OS-Windows%2011-purple?logo=windows&style=for-the-badge)]()
-[![Laptop](https://img.shields.io/badge/Laptop%20OS-Windows%2011-pink?logo=apple&style=for-the-badge)]()
-[![Laptop](https://img.shields.io/badge/Laptop%20OS-Windows%2011-orange?logo=arch&style=for-the-badge)]()
-
-
 ### Programming Languages & Technologies
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,py,react,mongodb,cpp,cs,kotlin,graphql,postgresql,sass,go" />
