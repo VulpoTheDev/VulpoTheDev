@@ -21,4 +21,4 @@ _A Full Stack React Web Developer_
 
 ### Programming Languages & Technologies
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,py,react,mongodb,cpp,cs,kotlin,graphql,postgresql,sass,go" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,py,react,mongodb,cpp,cs,kotlin,graphql,postgresql,sass,go,swift" />
