@@ -5,9 +5,9 @@
 I am a University Student studying for my B.S Degree in Software Engineering
 
 Certificate Goals:
-- AWS Cloud Practitioner (Nov 2024)
-- AWS Certified Solutions Architect - Associate (Dec 2024)
-- Scrum Master Certification (CSM) (Dec 2024)
+- AWS Cloud Practitioner (Mar 2025)
+- AWS Certified Solutions Architect - Associate (Mar 2025)
+- Scrum Master Certification (CSM) (Mar 2025)
 - Docker Certified Associate (2025)
 
 Topic Goals:
