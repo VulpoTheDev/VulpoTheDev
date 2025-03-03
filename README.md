@@ -26,7 +26,7 @@ Goals:
 
 <div style="display: flex; flex-direction:row;">
   
-<img width="200" src="comptia-it-fundamentals-itf-certification.1 2.png" />
+<img width="200" src="comptiaitf.png" />
 <img width="200" src="cloudpractitioner.png" />
-<img width="200" src="wgufrontend.jpeg" />
+<img width="200" src="wgufrontend.png" />
   </div>
