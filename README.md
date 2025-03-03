@@ -5,6 +5,7 @@
 I am a University Student studying for my B.S Degree in Software Engineering
 
 Certificate Goals:
+
 ~~- AWS Cloud Practitioner (Mar 2025)~~~
 - AWS Certified Solutions Architect - Associate (Mar 2025)
 - Scrum Master Certification (CSM) (Mar 2025)
@@ -23,4 +24,9 @@ Goals:
 
 ## My Certificates
 
-<img src="comptia-it-fundamentals-itf-certification.1 2.png" />
+<div style="display: flex; flex-direction:row;">
+  
+<img width="200" src="comptia-it-fundamentals-itf-certification.1 2.png" />
+<img width="200" src="cloudpractitioner.png" />
+<img width="200" src="wgufrontend.jpeg" />
+  </div>
