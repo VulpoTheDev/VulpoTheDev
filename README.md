@@ -6,9 +6,13 @@ I am a University Student studying for my B.S Degree in Software Engineering
 
 Certificate Goals:
 
-- AWS Certified Solutions Architect - Associate (Mar 2025)
-- Scrum Master Certification (CSM) (Mar 2025)
-- Docker Certified Associate (2025)
+- AWS Certified Solutions Architect - Associate (2025)
+- CompTIA A+ (2025)
+- CompTIA Network+ (2025)
+- CompTIA Project+ (2025)
+- CompTIA Security+ (2025)
+- CompTIA Pentest+ (2025)
+- CompTIA CySA+ (2025)
 
 Topic Goals:
 - Terraform and Kubernetes (2025)
