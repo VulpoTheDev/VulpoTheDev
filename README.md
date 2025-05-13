@@ -1,8 +1,9 @@
 <!-- 2022-2024 OzzyTheDev, Please Don't Copy -->
 
 # Hello All, I'm Jason!
+B.S. Degree in Software Engineering
 
-I am a University Student studying for my B.S Degree in Software Engineering
+Studying at WGU for B.S. in CyberSecurity, Soon to be OMSCS M.S CS Student
 
 Certificate Goals:
 
