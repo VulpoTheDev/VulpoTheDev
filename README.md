@@ -19,12 +19,12 @@ Topic Goals:
 - Terraform and Kubernetes (2025)
 - CI/CD (2025)
 - AI (2025)
-- Mobile App Development
+- ~~Mobile App Development~~
 
 Goals:
-- Release MyArtverse to the public (2025)
-- Finish Sparrow Project (Solo) as a Hobby Project (2025)
-- Get that Software Engineering Degree
+- ~~Get that Software Engineering Degree~~
+- Get a job
+- Survive
 
 ## My Certificates
 
