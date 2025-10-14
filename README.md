@@ -9,7 +9,7 @@ Certificate Goals:
 
 - AWS Certified Solutions Architect - Associate (2025)
 - ~~CompTIA A+ (2025)~~ (Completed)
-- CompTIA Network+ (2025)
+~~- CompTIA Network+ (2025)~~ (Completed)
 - CompTIA Project+ (2025)
 - CompTIA Security+ (2025)
 - CompTIA Pentest+ (2025)
@@ -23,8 +23,10 @@ Topic Goals:
 
 Goals:
 - ~~Get that Software Engineering Degree~~
-- Get a job
-- Survive
+- AHHHHHHHHHH
+- Complete Cybersecurity Degree
+- Go for a masters maybe
+- Get a CS or IT Job (plz)
 
 ## My Certificates
 
