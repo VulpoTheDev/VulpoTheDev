@@ -12,10 +12,15 @@ Full Stack React Software Dev that likes Java and C#
 ## Certificate Goals
 
 - ~~CompTIA A+ (2025)~~ (Completed)
+  
 ~~- CompTIA Network+ (2025)~~ (Completed)
+
 ~~- CompTIA Security+ (2025)~~ (Completed)
+
+~~- CompTIA CySA+ (2025)~~
+
 - CompTIA Pentest+ (2025)
-- CompTIA CySA+ (2025)
+
 
 ## Topic Goals
 - Terraform and Kubernetes (2027)
