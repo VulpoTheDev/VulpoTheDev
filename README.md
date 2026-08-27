@@ -15,9 +15,7 @@ Full Stack React Software Dev that likes Java and C#
 - 3D Modeling Blender (2026)
 
 ## Goals
-- ~~Get that Software Engineering Degree~~
-- Complete Cybersecurity Degree
-- Go for a master's degree(?)
+- Join the United States Air Force!
 
 ## My Certificates
 
