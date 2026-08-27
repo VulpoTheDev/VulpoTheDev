@@ -2,7 +2,7 @@
 
 # Hello All, I'm Jason!
 
-Full Stack React Software Dev that likes Java and C#
+Full Stack React Software Dev that likes Java and C# with a bachelor's degree in Software Engineering and Cybersecurity
 
 ## My Education
 
