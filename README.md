@@ -7,28 +7,12 @@ Full Stack React Software Dev that likes Java and C#
 ## My Education
 
 - B.S. Degree in Software Engineering (May 2025)
-- Studying at WGU for B.S. in Cybersecurity (Graduating July 2026)
+- B.S. in Cybersecurity & Information Assurance (August 2026)
 
-## Certificate Goals
-
-- ~~CompTIA A+ (2025)~~ (Completed)
-  
-~~- CompTIA Network+ (2025)~~ (Completed)
-
-~~- CompTIA Security+ (2025)~~ (Completed)
-
-~~- CompTIA CySA+ (2025)~~
-
-- CompTIA Pentest+ (2025)
-
-
-## Topic Goals
+## Stuff I want to learn more
 - Terraform and Kubernetes (2027)
-- CI/CD (2026)
-- AI (2026)(?)
-- Game Dev (2026)
-- Blender (2026)
-- ~~Mobile App Development~~
+- Game Development in Godot (2026)
+- 3D Modeling Blender (2026)
 
 ## Goals
 - ~~Get that Software Engineering Degree~~
@@ -38,12 +22,12 @@ Full Stack React Software Dev that likes Java and C#
 ## My Certificates
 
 <div style="display: flex; flex-direction:row;">
-<img width="50" src="cloudpractitioner.png" />
-<img width="50" src="wgufrontend.png" />
-<img width="50" src="comptiaitf.png" />
-<img width="50" src="comptiaa.png" />
-<img width="50" src="comptianetwork.png" />
-<img width="50" src="comptiasecurity.png" />
-  <img width="50" src="comptiacysa.png" />
-<img width="50" src="comptiapentest.png" />
+<img width="50" src="cert/cloudpractitioner.png" />
+<img width="50" src="cert/wgufrontend.png" />
+<img width="50" src="cert/comptiaitf.png" />
+<img width="50" src="cert/comptiaa.png" />
+<img width="50" src="cert/comptianetwork.png" />
+<img width="50" src="cert/comptiasecurity.png" />
+  <img width="50" src="cert/comptiacysa.png" />
+<img width="50" src="cert/comptiapentest.png" />
   </div>
