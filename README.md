@@ -20,12 +20,11 @@ Full Stack React Software Dev that likes Java and C# with a bachelor's degree in
 ## My Certificates
 
 <div style="display: flex; flex-direction:row;">
-<img width="50" src="cert/cloudpractitioner.png" />
-<img width="50" src="cert/wgufrontend.png" />
-<img width="50" src="cert/comptiaitf.png" />
-<img width="50" src="cert/comptiaa.png" />
-<img width="50" src="cert/comptianetwork.png" />
-<img width="50" src="cert/comptiasecurity.png" />
-  <img width="50" src="cert/comptiacysa.png" />
-<img width="50" src="cert/comptiapentest.png" />
+<img width="100" src="certificates/cloudpractitioner.png" />
+<img width="100" src="certificates/wgufrontend.png" />
+<img width="100" src="certificates/a.png" />
+<img width="100" src="certificates/network.png" />
+<img width="100" src="certificates/security.png" />
+  <img width="100" src="certificates/cysa.png" />
+<img width="100" src="certificates/pentest.png" />
   </div>
